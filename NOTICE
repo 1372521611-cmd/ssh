@@ -1,0 +1,23 @@
+Nature Figure 可编辑版 / nature-figure-editable
+
+This distribution includes workflow instructions and reference material from:
+  Yuan1z0825/nature-skills, skills/nature-figure
+  https://github.com/Yuan1z0825/nature-skills
+  Upstream repository license: Apache License, Version 2.0.
+  Existing upstream copyright and attribution notices remain applicable.
+
+Local baseline: nature-figure, metadata version 2.0.0.
+The local baseline is not asserted to be identical to the current upstream main
+branch. No verified upstream commit identifier is available for that baseline.
+
+Modifications in nature-figure-editable:
+  - Default paired editable-text SVG and native ungrouped PPTX delivery.
+  - Shared geometry, object granularity and visual-fidelity requirements.
+  - A limited presentation-packaging exception to scientific backend exclusivity.
+  - PPT/SVG structural auditing and regression tests.
+  - Release documentation, attribution and third-party routing safeguards.
+
+See MODIFICATIONS.md for the maintained change summary and
+THIRD_PARTY_NOTICES.md for separately licensed materials. The Apache license
+does not relicense third-party content. No endorsement by upstream contributors
+or Nature / Springer Nature is implied.

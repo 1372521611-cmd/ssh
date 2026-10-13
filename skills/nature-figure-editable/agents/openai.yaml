@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nature Figure 可编辑版"
+  short_description: "科研图同步输出 SVG 与原生可编辑 PPT，打开即可逐元素修改。"
+  default_prompt: "使用 $nature-figure-editable 制作科研图，同时输出 SVG 和所有元素已取消组合、打开即可单独编辑且布局样式一致的 PPT。"

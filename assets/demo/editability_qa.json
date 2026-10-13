@@ -1,0 +1,31 @@
+{
+  "status": "pass",
+  "scope": "Structural checks only; visual fidelity, all-label editability, fonts, object granularity, science and live PowerPoint behavior require separate verification.",
+  "svg": {
+    "sha256": "c5df871dcf8a8442e89b95d8b4db7f100a7f4b41f5b5207e5276c248b0ace954",
+    "dimensions_inches": [
+      9.0,
+      8.0
+    ],
+    "editable_text_nodes": 140,
+    "image_nodes": 0
+  },
+  "pptx": {
+    "sha256": "50f31ee486d7adc0c15084d5958aff1ba0adbca8f8bcaf443902347e49bf751d",
+    "slide_count": 1,
+    "audited_slide_index": 1,
+    "dimensions_inches": [
+      9.0,
+      8.0
+    ],
+    "top_level_native_objects": 694,
+    "top_level_text_shapes": 140,
+    "groups": 0,
+    "pictures": 0,
+    "image_fills": 0,
+    "graphic_frames": 0,
+    "ole_objects": 0,
+    "fixed_layout_master_shapes": 0
+  },
+  "problems": []
+}
